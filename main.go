@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"bittorrent-go/torrentfile"
+	"github.com/ProgrammedByHussain/bittorrent-go/torrentfile"
 )
 
 func main() {
